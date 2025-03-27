@@ -32,6 +32,7 @@ This Power BI dashboard visualizes call center agent performance based on key me
 2. Refresh the dataset to load the latest data.
 3. Explore different visuals and filters to analyze agent performance.
 4. Use insights to optimize call center operations.
+  ![snap_1]( https://github.com/RAJkumar123887/Agent-Performance-Dashboard/issues/2#issue-2953866504)
 
 ## Requirements
 - Microsoft Power BI Desktop
